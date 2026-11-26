@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Jev is probably Qwen3.5-35B-A3B",
+    "url": "https://modaic.dev/blog/latency-doesnt-lie",
+    "source": "modaic.dev",
+    "crawled_at": "2026-11-26T00:31:07.911400+00:00"
+  },
+  {
+    "id": 2,
+    "title": "1Password Security Incident",
+    "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+    "source": "1password.com",
+    "crawled_at": "2026-11-26T00:31:07.923174+00:00"
+  },
+  {
+    "id": 3,
+    "title": "Much shorter version of GRH Lean verification from Anthropic",
+    "url": "https://github.com/lsernau/grh-lean",
+    "source": "github.com/lsernau",
+    "crawled_at": "2026-11-26T00:31:07.934915+00:00"
+  },
+  {
+    "id": 4,
+    "title": "The New York Times tells photographers not to use the latest Photoshop",
+    "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+    "source": "dpreview.com",
+    "crawled_at": "2026-11-26T00:31:07.943917+00:00"
+  },
+  {
+    "id": 5,
+    "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+    "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+    "source": "bjin.github.io",
+    "crawled_at": "2026-11-26T00:31:07.953262+00:00"
+  },
+  {
+    "id": 6,
+    "title": "Slow Ubuntu security response times",
+    "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+    "source": "openwall.com",
+    "crawled_at": "2026-11-26T00:31:07.964771+00:00"
+  },
+  {
+    "id": 7,
+    "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+    "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+    "source": "vox.com",
+    "crawled_at": "2026-11-26T00:31:07.980864+00:00"
+  },
+  {
+    "id": 8,
+    "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+    "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+    "source": "opensec.in",
+    "crawled_at": "2026-11-26T00:31:07.989364+00:00"
+  },
+  {
+    "id": 9,
+    "title": "SSH is a GUI framework",
+    "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+    "source": "zydra.sh",
+    "crawled_at": "2026-11-26T00:31:07.998001+00:00"
+  },
+  {
+    "id": 10,
+    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+    "url": "https://scottaaronson.blog/?p=10379",
+    "source": "scottaaronson.blog",
+    "crawled_at": "2026-11-26T00:31:08.005517+00:00"
+  }
+]
